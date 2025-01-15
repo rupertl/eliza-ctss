@@ -8,7 +8,7 @@
             R param A - the address of a cell to move the contents of M to
             R Return the now empty list M
             R
-            R Author:  A. Hays
+            R Authors: Anthony Hay & Arthur Schwarz
             R Date:    Dec. 15, 2024
             R --------------------------------------------------------------
              EXTERNAL FUNCTION(M,A)
