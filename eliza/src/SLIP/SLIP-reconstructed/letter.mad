@@ -22,7 +22,7 @@
             R param CHARS - the word containing 6 BCD characters
             R Return a word containing the equivalent categories for each
             R
-            R Author:  A. Hays
+            R Authors: Anthony Hay & Arthur Schwarz
             R Date:    Nov. 27, 2024
             R --------------------------------------------------------------
              EXTERNAL FUNCTION (CHARS)
