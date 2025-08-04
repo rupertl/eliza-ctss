@@ -66,7 +66,7 @@ $ upload-all
 ```
 
 4. Start CTSS by typing `runctss`
-5. Start your telnet client and connect to localhost port 7094. For
+5. Use another terminal window to start your telnet client and connect to localhost port 7094. For
 the command line client you can type `telnet 0 7094`.
 6. In the telnet session, type `login sysdev` and give the password `system`
 7. The screen should now look something like
