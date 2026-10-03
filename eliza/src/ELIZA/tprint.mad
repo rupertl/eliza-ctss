@@ -5,7 +5,7 @@
             LIST.(OUT)                                                          000050
 READ        NEXT=SEQLR.(SA,FA)                                                  000060
             W'R FA .G. 0, T'O P                                                 000070
-            W'R FA .E. 0, T'O B                                                 000080
+            W'R FA .E. 0, T'O B                                                 000090
             POINT=NEWBOT.(NEXT,OUT)                                             000100
             W'R SA .L. 0, MRKNEG.(POINT)                                        000110
             T'O READ                                                            000120
