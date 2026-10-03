@@ -3,10 +3,12 @@ Compile and run Joseph Weizenbaum's original 1965 code for
 [CTSS](https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System),
 using the s709 IBM 7094 emulator.
 
-* [elizagen.org blog
-  post](https://sites.google.com/view/elizagen-org/blog/eliza-reanimated)
+<p align="center">
+    <img src="etc/screenshot.png" alt="Screenshot of ELIZA runnning on CTSS " width="400">
+</p>
+
 * [Video demo](https://youtu.be/j5Tw-XVcsRE)
-* [Paper](http://arxiv.org/abs/2501.06707)
+* *ELIZA Reanimated: Restoring the Mother of All Chatbots to One of the World’s First Time-Sharing Systems* [IEEE Annals of the History of Computing paper](https://ieeexplore.ieee.org/document/11030922)
 
 See the Prerequisites and Quickstart section below to begin.
 
